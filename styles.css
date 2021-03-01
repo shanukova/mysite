@@ -103,8 +103,8 @@ a:hover {
 }
 
 .book-img {
-  float: left;
-  margin-right: 30px;
+  float: right;
+  margin-left: 30px;
 }
 
 .btn {
